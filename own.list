@@ -1,0 +1,23 @@
+# PROXY
+DOMAIN-SUFFIX,dmm.com,JP
+DOMAIN-SUFFIX,DMM.co.jp,JP
+DOMAIN,warframe.market,PROXY
+DOMAIN-SUFFIX,proxifier.com,PROXY
+DOMAIN-SUFFIX,googleapis.cn,PROXY
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY // Google Play
+# DIRECT
+DOMAIN-KEYWORD,playstation,Domestic //PS
+DOMAIN-SUFFIX,akamaihd.net,DIRECT // Blzzard
+PROCESS-NAME,*aria2*,DIRECT
+PROCESS-NAME,*plex*,DIRECT
+DOMAIN-KEYWORD,blizzard,DIRECT
+# REJECT
+DOMAIN,upgrade.xl9.xunlei.com,REJECT // xunlei
+DOMAIN,hub5emu.sandai.net,REJECT // xunlei
+DOMAIN,hub5btmain.sandai.net,REJECT // xunlei
+# Domestic
+PROCESS-NAME,storedownloadd,Domestic // Mac App Store
+USER-AGENT,com.apple.appstored*,Domestic // iOS App Store
+DOMAIN,iosapps.itunes.apple.com,Domestic
+DOMAIN,xp.apple.com,Domestic // iOS & macOS System Upgrade
+DOMAIN-SUFFIX,store.apple.com,Domestic
