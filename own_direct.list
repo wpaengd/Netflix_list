@@ -1,0 +1,5 @@
+DOMAIN-KEYWORD,playstation //PS
+DOMAIN-SUFFIX,akamaihd.net // Blzzard
+PROCESS-NAME,*aria2*
+PROCESS-NAME,*plex*
+DOMAIN-KEYWORD,blizzard
