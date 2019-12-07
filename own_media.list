@@ -6,3 +6,4 @@ IP-CIDR,14.136.137.0/24,no-resolve
 IP-CIDR,203.198.13.0/24,no-resolve
 IP-CIDR,203.198.80.0/24,no-resolve
 IP-CIDR,210.0.153.0/24,no-resolve
+DOMAIN,atv-ext-fe.amazon.com
