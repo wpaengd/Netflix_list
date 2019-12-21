@@ -1,2 +1,0 @@
-DOMAIN-SUFFIX,ali-stats.jpush.cn,REJECT-TINYGIF // 机核
-DOMAIN-SUFFIX,xyoss.g.com.cn,REJECT-TINYGIF // NGA
