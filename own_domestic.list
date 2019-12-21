@@ -1,5 +1,0 @@
-PROCESS-NAME,storedownloadd // Mac App Store
-USER-AGENT,com.apple.appstored* // iOS App Store
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,xp.apple.com // iOS & macOS System Upgrade
-DOMAIN-SUFFIX,store.apple.com
